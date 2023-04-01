@@ -1,7 +1,7 @@
 {
   "name": "builasite",
   "version": "0.1.0",
-  "https":"//evanhu96.github.io/build-a-site/",
+  "homepage":"https://evanhu96.github.io/build-a-site/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
